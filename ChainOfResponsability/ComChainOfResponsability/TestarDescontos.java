@@ -1,8 +1,8 @@
-package ComChainOfResponsability;
+package comchainofresponsability;
 
 import java.math.BigDecimal;
-import ComChainOfResponsability.desconto.CalculadoraDeDescontos;
-import ComChainOfResponsability.orcamento.Orcamento;
+import comchainofresponsability.desconto.CalculadoraDeDescontos;
+import comchainofresponsability.orcamento.Orcamento;
 
 public class TestarDescontos {
     

@@ -1,7 +1,7 @@
-package ComChainOfResponsability.desconto;
+package comchainofresponsability.desconto;
 
 import java.math.BigDecimal;
-import ComChainOfResponsability.orcamento.Orcamento;
+import comchainofresponsability.orcamento.Orcamento;
 
 public class SemDesconto extends Desconto{
 

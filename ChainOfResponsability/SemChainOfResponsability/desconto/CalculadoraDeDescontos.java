@@ -1,7 +1,8 @@
-package SemChainOfResponsability.desconto;
+package semchainofresponsability.desconto;
 
 import java.math.BigDecimal;
-import SemChainOfResponsability.orcamento.Orcamento;
+
+import semchainofresponsability.orcamento.Orcamento;
 
 public class CalculadoraDeDescontos{
 

@@ -1,4 +1,4 @@
-package ComChainOfResponsability.orcamento;
+package comchainofresponsability.orcamento;
 
 import java.math.BigDecimal;
 

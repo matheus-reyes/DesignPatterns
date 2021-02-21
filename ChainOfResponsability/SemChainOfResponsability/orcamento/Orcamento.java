@@ -1,4 +1,4 @@
-package SemChainOfResponsability.orcamento;
+package semchainofresponsability.orcamento;
 
 import java.math.BigDecimal;
 
